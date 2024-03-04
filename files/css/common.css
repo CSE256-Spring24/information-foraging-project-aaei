@@ -10,6 +10,8 @@ body main {
     color: #555;
     font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
     line-height: 1.45;
+    position:relative;
+    top:100px;
 }
 
 main div {
