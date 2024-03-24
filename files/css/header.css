@@ -9,7 +9,7 @@ header {
     padding-left: 4%;
     padding-top: 7px;
     position: relative;
-    top: 100px;
+    top: 54px;
     
 }
 
@@ -23,13 +23,13 @@ header {
     padding-left: 4%;
     padding-top: 7px;
     position: relative;
-    top: 100px;
+    top: 50px;
 }
 
 
 .container {
     width: 92%;
-    max-width: 71em;
+    max-width: 85em;
     margin-left: auto;
     margin-right: auto;
 }
